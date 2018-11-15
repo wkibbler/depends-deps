@@ -3,8 +3,8 @@ Fully compiled depencies for 32-bit and 64-bit win cross compilation
 
 usage (64-bit)
 ---------------
-#install
-#download the zip file from the relases page (https://github.com/wkibbler/depends-deps/releases)
+install.
+download the zip file from the relases page (https://github.com/wkibbler/depends-deps/releases)
 ```bashl
 unzip depends-deps.zip
 copy "Makefile" "config.guess" "config.site.in" "config.sub" "funcs.mk" from /your-coin-dir/depends/ to /depends-deps/x64/depends/
