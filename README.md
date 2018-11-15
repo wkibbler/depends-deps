@@ -22,8 +22,9 @@ make
 usage (32-bit)
 ---------------
 install 
-```bashl
+
 download the zip file from the relases page (https://github.com/wkibbler/depends-deps/releases)
+```bashl
 unzip depends-deps.zip
 copy "Makefile" "config.guess" "config.site.in" "config.sub" "funcs.mk" from /your-coin-dir/depends/ to /depends-deps/x86/depends/
 delete /your-coin-dir/depends/
